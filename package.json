@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/nbamfordcirium.lion-issue-reproduction-fork-liqaob59",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve e2piadZEBV3zH1SlO2XK --open"
+  }
+}
