@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "check-types": "npx tsc --noEmit",
     "serve": "npx wcd-cli@latest serve e2piadZEBV3zH1SlO2XK --open"
   },
   "devDependencies": {
