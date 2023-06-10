@@ -1,7 +1,15 @@
 {
   "name": "@wcd/nbamfordcirium.lion-issue-reproduction-fork-liqaob59",
   "version": "0.0.0",
+  "type": "module",
   "scripts": {
     "serve": "npx wcd-cli@latest serve e2piadZEBV3zH1SlO2XK --open"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  },
+  "dependencies": {
+    "@lion/core": "^0.24.0",
+    "@lion/tooltip": "^0.24.1"
   }
 }
